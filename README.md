@@ -24,13 +24,14 @@ The Todo-List front end will have several requirements.
 1. It must have an `h1` tag, which will display the title of the app: (Call it what you want)
 2. It must have a list of elements. The html tags you will use are `ul` and `li`.
 3. You must include an input field for a user to add a to-do
+4. You must include a button to add a to-do
 4. It must have an image. The image doesn't have anything to do with functionality. It's just good knowledge to know how to display an image.
 5. You must designate some styles in main.css, that will link in index.html. Learning how to use relative links and paths is very useful. 
 6. You must use the Bulma CSS framework. Read this getting started page in bulma's documentation for how to use the Bulma CDN https://bulma.io/documentation/overview/start/. A hint of what you'll have to do, is link the CSS file in the `head` tags of the index.html page.
 
 An example of what the to-do list can look like is displayed below: 
 
-<img src="https://i.imgur.com/sF0nsJ1.png" width="300">
+<img src="https://i.imgur.com/5xKSfzd.png" width="300">
 
 ### Tips
 1. I'd advise you to code everything on https://www.codepen.io, and then export it from there. If you have trouble copying your codepen project into this repository, just message me.
