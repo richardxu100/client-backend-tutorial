@@ -1,0 +1,15 @@
+h1 {
+    color: #0066ff;
+    font-size: 2.5rem;
+  }
+  
+  button {
+    background-color: #ffff66 !important;
+  }
+  
+  img {
+    width: 400px;
+    height: 175px;
+    object-fit: cover;
+  }
+  
